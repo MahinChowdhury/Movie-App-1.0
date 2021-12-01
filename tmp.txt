@@ -1,0 +1,25 @@
+<div class="navbar">
+        <div class="nav-logo">
+            <h2 id="logo-text">GARLIC</h2>
+        </div>
+        <ul class="nav-menu">
+            <li><a href="">Home</a></li>
+            <li><a href="">Movies</a></li>
+            <li><a href="">Series</a></li>
+            <li><a href="">Popular</a></li>
+            <li><a href="">Trending</a></li>
+        </ul>
+        <div class="nav-profile">
+            <img id="profile-pic" src="profilepic.jpg" alt="">
+            <div class="search">
+                <form action="">
+                    <input type="text"class="search-box" placeholder="  Search">
+                </form>
+            </div>
+        </div>
+        <div class="burger">
+            <div class="line-1"></div>
+            <div class="line-2"></div>
+            <div class="line-3"></div>
+        </div>
+    </div>
